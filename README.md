@@ -1,4 +1,4 @@
-# Hey there tech pals I'm Asad Iqbal.👋 
+# Hi tech pals, I'm Asad Iqbal.👋 
 <br>
 I am Mechatronics grad with a serious soft spot for Artificial Intelligence. In a world that's buzzing with AI vibes, I'm here to ride the wave and sprinkle some Mechatronics magic into the mix.
 Picture this: gears, circuits, and the thrill of coding—yeah, that's my jam. But what really gets my neurons firing is the incredible dance between machines and intelligence. AI is not just a trend for me; it's a playground where the future is unfolding in lines of code.
