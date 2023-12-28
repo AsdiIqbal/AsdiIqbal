@@ -1,8 +1,7 @@
-# Hi tech pals, I'm Asad Iqbal.👋 
+# Hi there, I'm Asad Iqbal.👋 
 <br>
 <img src="https://github.com/AsdiIqbal/AsdiIqbal/blob/main/ASAD%20IQBAL.png">
 <br>
-I am Mechatronics grad with a serious soft spot for Artificial Intelligence. In a world that's buzzing with AI vibes, I'm here to ride the wave and sprinkle some Mechatronics magic into the mix.
+I am a Mechatronics graduate with a soft spot for Artificial Intelligence. I worked on a lot of projects in my academics timeline which covered the scope of research, analytics, programming and building tools. Since then, I have been learning my way in to AI developments and Robotics.
 Picture this: gears, circuits, and the thrill of coding—yeah, that's my jam. But what really gets my neurons firing is the incredible dance between machines and intelligence. AI is not just a trend for me; it's a playground where the future is unfolding in lines of code.
-My GitHub hideout is the backstage pass to my AI adventures. Peek in, and you'll find a trove of algorithms and projects that scream "innovation meets the cutting edge." I'm all about decoding the trends, diving deep into neural networks, and making sense of the AI buzz.
-Ready to geek out on the future of tech? Come along, hit the code, and let's navigate this AI frontier together. Here's to the algorithms shaping tomorrow!
+Along with my journey, I love to contribute to the community and pave some path for the coming ones.
